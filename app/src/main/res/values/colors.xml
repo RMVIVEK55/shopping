@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="status">#6ECFC6</color>
+    <color name="tab">#2C3039</color>
+    <color name="tabselect">#FFFFFF</color>
+    <color name="tabunselect">#818283</color>
+    <color name="tabunderlinecolor">#51A3DF</color>
+    <color name="toolbarbgcolor">#2C3039</color>
+    <color name="favColor">#00000000</color>
+    <color name="favRed">#E74C3C</color>
+    <color name="buttonGreen">#4CB050</color>
+    <color name="buttonTextWhiteColor">#FFFFFF</color>
+
+</resources>

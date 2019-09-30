@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="trainingproject.tridentnets.com.shoppingtask.activity.CartViewActivity">
+    <LinearLayout
+
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:weightSum="4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+
+android:layout_weight="1"
+            android:id="@+id/img_cartview"
+            android:layout_width="70dp"
+            android:layout_height="70dp" />
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/txt_cartview_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signin"/>
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/txt_cartview_cost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signin"/>
+        <TextView
+            android:layout_weight="1"
+            android:id="@+id/txt_cartview_Quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signin"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

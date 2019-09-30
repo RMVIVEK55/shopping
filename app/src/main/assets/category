@@ -1,0 +1,24 @@
+{
+  "categories":
+  [
+
+    {
+      "Name":"Great Deal",
+      "Sub_text": "On Watches"
+    },
+    {
+      "Name":"Summer Wear",
+      "Sub_text": "Clothes"
+
+    },
+    {
+      "Name":"Nov Deal",
+      "Sub_text": "On Wallets"
+    },
+    {
+      "Name":"Optics",
+      "Sub_text": "On Frames"
+
+    }
+  ]
+}
